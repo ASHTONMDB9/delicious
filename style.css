@@ -1,0 +1,49 @@
+#logo {
+    font-family: initial;
+    font-size: xx-large;
+}
+.above {
+    display: flex;
+}
+i {
+    padding-right: 10px;
+    padding-left: 50px;
+    color: orange;
+    font-size: large;
+}
+.navbar {
+    width: 100%;
+    z-index: 1000;
+    height: 65px;
+}
+.dropdown-menu {
+    list-style-type: none; 
+ }
+section {
+    min-height: 100vh;
+}
+#img {
+    height: 400px;
+}
+.aboutlist {
+    list-style:square;
+    color: orange;
+}
+#abouttext {
+    font-family: initial;
+}
+#colortext {
+    color: orange;
+}
+#price{
+    color: black;
+}
+.no {
+    color: orange;
+}
+.abouttext {
+    font-family: initial;
+}
+#menu {
+    min-height: 50vh;
+}
